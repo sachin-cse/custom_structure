@@ -1,0 +1,18 @@
+{
+    "name": "Service",
+    "description": "Service list with gallery.",
+    
+    "plugins":[
+        {
+            "name": "Service",
+            "description": "Service list with gallery and request quote. A whole lot of things can be manageable from it's setting.",
+            "path": "listview",
+            "size": "70 KB",
+            "lastUpdate": "2019-01-23",
+            "icon": "icon.png",
+            "thumbnail": "thumbnail.jpg",
+            "preview": "http://www.eclickprojects.com/skeleton/code/"
+        }
+    ] 
+    
+}

@@ -1,0 +1,18 @@
+{
+    "name": "PWA",
+    "description": "Progressive Web App",
+    
+    "plugins":[
+        {
+            "name": "PWA",
+            "description": "PWA improves accessibility and performance.",
+            "path": "pwa",
+            "size": "17 KB",
+            "lastUpdate": "2019-01-08",
+            "icon": "icon.png",
+            "thumbnail": "thumbnail.jpg",
+            "preview": "http://www.eclickprojects.com/skeleton/code/"
+        }
+    ] 
+    
+}

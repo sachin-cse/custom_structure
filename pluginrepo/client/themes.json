@@ -1,0 +1,18 @@
+{
+    "name": "Client",
+    "description": "List of clients or brands or sponsors etc.",
+    
+    "plugins":[
+        {
+            "name": "Client",
+            "description": "List of clients or brands or sponsors etc.",
+            "path": "listview",
+            "size": "44 KB",
+            "lastUpdate": "2019-01-30",
+            "icon": "icon.png",
+            "thumbnail": "thumbnail.jpg",
+            "preview": "http://www.eclickprojects.com/skeleton/code/"
+        }
+    ] 
+    
+}
